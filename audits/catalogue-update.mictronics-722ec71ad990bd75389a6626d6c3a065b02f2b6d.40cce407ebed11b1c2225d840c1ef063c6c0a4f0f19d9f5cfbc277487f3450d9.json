@@ -1,0 +1,171 @@
+{
+  "baseRevision": "d40c8a7b3825dfca896fe234de56040a70e7a215ee34a895468116e51e1afcae",
+  "checks": {
+    "allPackagePayloadLimits": true,
+    "allPackageRowLimits": true,
+    "baseRevisionChain": true,
+    "deactivationGuard": true,
+    "deterministicOrdering": true,
+    "minimumSourceRows": true,
+    "ownerPiiExcluded": true,
+    "priorDatabaseOpenedReadOnly": true,
+    "priorDatabaseQuickCheck": true,
+    "runtimeContract": true,
+    "runtimeIndexLimit": true,
+    "typesBeforeAircraft": true
+  },
+  "comparisonSha256": "3ecc93bdbf2e848ee4eafffd451208cf4e037ed1250ffeee6230b9aa8bed88d8",
+  "counts": {
+    "aircraftDeactivated": 0,
+    "aircraftDeactivationCandidates": 111422,
+    "aircraftDeactivationsSuppressed": 111422,
+    "aircraftInserted": 38951,
+    "aircraftReactivated": 408547,
+    "aircraftSameSourceDeactivationCandidates": 0,
+    "aircraftSkippedMissingRegistration": 0,
+    "aircraftTypesAdded": 1010,
+    "aircraftTypesUnchanged": 26,
+    "aircraftTypesUpdated": 1752,
+    "aircraftUnchanged": 0,
+    "aircraftUpdated": 408547,
+    "airlinesEmitted": 0,
+    "ownerPiiFieldsEmitted": 0,
+    "priorActiveAircraft": 519969,
+    "priorAircraftInvalidTypeCodes": 933,
+    "priorAircraftRows": 519969,
+    "priorAircraftTypeRowsSkipped": 10,
+    "runtimeDeltaRows": 450260,
+    "sourceAircraftRows": 447498,
+    "sourceAircraftTypes": 2788,
+    "sourceAircraftWithRegistration": 447498,
+    "sourceAircraftWithoutRegistration": 0
+  },
+  "deactivation": {
+    "candidateRows": 111422,
+    "emittedRows": 0,
+    "policy": "none",
+    "rowProvenanceRequired": true,
+    "sameSourceCandidateRows": 0,
+    "suppressedRows": 111422,
+    "trustedSameSource": false
+  },
+  "generatedAt": "2026-08-23T07:44:34Z",
+  "index": {
+    "bytes": 8581,
+    "sha256": "fa709ecb0965352096d1864f59ef8263f4bfe727afcb0b514d7cd912ded11059"
+  },
+  "input": {
+    "contentSha256": "0e8c40b2e85ebb5954f26fb2994de0fe196ebf428300d456077c0cae8a3e754a",
+    "format": "Mictronics indexedDB",
+    "kind": "zip"
+  },
+  "kind": "planespotter-aircraft-catalogue-chain-audit",
+  "packages": [
+    {
+      "baseRevision": "d40c8a7b3825dfca896fe234de56040a70e7a215ee34a895468116e51e1afcae",
+      "part": 1,
+      "payloadBytes": 229379,
+      "payloadSha256": "b276861cad8b24a51a3911a0124de4b32bdc7730bd7cd00bc8e845688ebd88dc",
+      "payloadUrl": "catalogue-delta.part-0001.b276861cad8b24a51a3911a0124de4b32bdc7730bd7cd00bc8e845688ebd88dc.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0001-3ecc93bdbf2e",
+      "rows": 2762,
+      "stage": "aircraftTypes"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0001-3ecc93bdbf2e",
+      "part": 2,
+      "payloadBytes": 5885919,
+      "payloadSha256": "76f8c9cb154c71b0a69185174cfeac942544279515b46a05fee23b3641c5d73d",
+      "payloadUrl": "catalogue-delta.part-0002.76f8c9cb154c71b0a69185174cfeac942544279515b46a05fee23b3641c5d73d.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0002-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0002-3ecc93bdbf2e",
+      "part": 3,
+      "payloadBytes": 5890663,
+      "payloadSha256": "ae2a1742c53828a4e1a62f08bdb51351658e3fd703a55c1f1285dd02687d9129",
+      "payloadUrl": "catalogue-delta.part-0003.ae2a1742c53828a4e1a62f08bdb51351658e3fd703a55c1f1285dd02687d9129.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0003-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0003-3ecc93bdbf2e",
+      "part": 4,
+      "payloadBytes": 5843633,
+      "payloadSha256": "956bdeba42aeed961030d99d1717a64eaf76d6c20dd659d6bb97485ff991618a",
+      "payloadUrl": "catalogue-delta.part-0004.956bdeba42aeed961030d99d1717a64eaf76d6c20dd659d6bb97485ff991618a.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0004-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0004-3ecc93bdbf2e",
+      "part": 5,
+      "payloadBytes": 5823577,
+      "payloadSha256": "aae942d8a0e1105ce4860685b6236662944f0f6714d3b46d70563bb42d1cb19c",
+      "payloadUrl": "catalogue-delta.part-0005.aae942d8a0e1105ce4860685b6236662944f0f6714d3b46d70563bb42d1cb19c.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0005-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0005-3ecc93bdbf2e",
+      "part": 6,
+      "payloadBytes": 5825393,
+      "payloadSha256": "915ff8bd60ea313dfc358801054f98b1c19388ef29302e76e46be659201c81f9",
+      "payloadUrl": "catalogue-delta.part-0006.915ff8bd60ea313dfc358801054f98b1c19388ef29302e76e46be659201c81f9.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0006-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0006-3ecc93bdbf2e",
+      "part": 7,
+      "payloadBytes": 5819842,
+      "payloadSha256": "83c140a8726115a2a4d8c088e417c75d53ee0aa7d0468470ed9393ee946ae863",
+      "payloadUrl": "catalogue-delta.part-0007.83c140a8726115a2a4d8c088e417c75d53ee0aa7d0468470ed9393ee946ae863.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0007-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0007-3ecc93bdbf2e",
+      "part": 8,
+      "payloadBytes": 5837964,
+      "payloadSha256": "eac11ecbd868a5917bbb5a3b85e76ab760d83d67d7ed0393361cc2d521ef4d1e",
+      "payloadUrl": "catalogue-delta.part-0008.eac11ecbd868a5917bbb5a3b85e76ab760d83d67d7ed0393361cc2d521ef4d1e.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0008-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0008-3ecc93bdbf2e",
+      "part": 9,
+      "payloadBytes": 5831024,
+      "payloadSha256": "522a30a57a09be5fce1ac3577e5fc9edfba755cf8e4a564452aa64374824424b",
+      "payloadUrl": "catalogue-delta.part-0009.522a30a57a09be5fce1ac3577e5fc9edfba755cf8e4a564452aa64374824424b.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0009-3ecc93bdbf2e",
+      "rows": 50000,
+      "stage": "aircraft"
+    },
+    {
+      "baseRevision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d.part-0009-3ecc93bdbf2e",
+      "part": 10,
+      "payloadBytes": 5488281,
+      "payloadSha256": "23f68b2978dd4cd1353cb995ee1fbe4517afb2c8eeeaf7cbcde81b8917f6b0c9",
+      "payloadUrl": "catalogue-delta.part-0010.23f68b2978dd4cd1353cb995ee1fbe4517afb2c8eeeaf7cbcde81b8917f6b0c9.json",
+      "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d",
+      "rows": 47498,
+      "stage": "aircraft"
+    }
+  ],
+  "prior": {
+    "revision": "d40c8a7b3825dfca896fe234de56040a70e7a215ee34a895468116e51e1afcae",
+    "sourceId": null
+  },
+  "revision": "mictronics-722ec71ad990bd75389a6626d6c3a065b02f2b6d",
+  "schemaVersion": 1
+}
