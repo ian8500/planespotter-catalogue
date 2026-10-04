@@ -1,0 +1,966 @@
+{
+  "aircraft": [
+    {
+      "active": true,
+      "icao24": "0060ad",
+      "registration": "C9-KAL",
+      "typeCode": "B735"
+    },
+    {
+      "active": true,
+      "icao24": "008220",
+      "registration": "ZS-CWG",
+      "typeCode": "C550"
+    },
+    {
+      "active": true,
+      "icao24": "00864e",
+      "registration": "ZS-CJL",
+      "typeCode": "C25A"
+    },
+    {
+      "active": true,
+      "icao24": "009e26",
+      "registration": "ZS-LKF",
+      "typeCode": "E295"
+    },
+    {
+      "active": true,
+      "icao24": "0102b6",
+      "registration": "SU-SKL",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "060049",
+      "registration": "3B-NCN",
+      "typeCode": "L410"
+    },
+    {
+      "active": true,
+      "icao24": "0d1398",
+      "registration": "XA-SCM",
+      "typeCode": "GL5T"
+    },
+    {
+      "active": true,
+      "icao24": "0d13ef",
+      "registration": "XA-LOG",
+      "typeCode": "C68A"
+    },
+    {
+      "active": true,
+      "icao24": "3009ba",
+      "registration": "I-GOVD",
+      "typeCode": "PA34"
+    },
+    {
+      "active": true,
+      "icao24": "31d97d",
+      "registration": "I-A777",
+      "typeCode": "EV97"
+    },
+    {
+      "active": true,
+      "icao24": "31df80",
+      "registration": "I-E025",
+      "typeCode": "STCH"
+    },
+    {
+      "active": true,
+      "icao24": "31e105",
+      "registration": "I-7257",
+      "typeCode": "FAET"
+    },
+    {
+      "active": true,
+      "icao24": "381bba",
+      "registration": "F-WWLV",
+      "typeCode": "AT46"
+    },
+    {
+      "active": true,
+      "icao24": "385da6",
+      "registration": "F-BXNG",
+      "typeCode": "C150"
+    },
+    {
+      "active": true,
+      "icao24": "39ce6d",
+      "registration": "F-HTTN",
+      "typeCode": "GL5T"
+    },
+    {
+      "active": true,
+      "icao24": "39e5d9",
+      "registration": "F-HZOZ",
+      "typeCode": "FA8X"
+    },
+    {
+      "active": true,
+      "icao24": "3c0f21",
+      "registration": "D-AUSL",
+      "typeCode": "A342"
+    },
+    {
+      "active": true,
+      "icao24": "3c7874",
+      "registration": "D-ANCT",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "3c7875",
+      "registration": "D-ANCU",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "3cc9c3",
+      "registration": "D-CDSD",
+      "typeCode": "E55P"
+    },
+    {
+      "active": true,
+      "icao24": "3cce54",
+      "registration": "D-CFLC",
+      "typeCode": "E55P"
+    },
+    {
+      "active": true,
+      "icao24": "3cd834",
+      "registration": "D-CJEI",
+      "typeCode": "LJ35"
+    },
+    {
+      "active": true,
+      "icao24": "3d54bb",
+      "registration": "D-FEED",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "3e0fec",
+      "registration": "D-HXFO",
+      "typeCode": "EC45"
+    },
+    {
+      "active": true,
+      "icao24": "4016ed",
+      "registration": "G-AVJK",
+      "typeCode": "DR10"
+    },
+    {
+      "active": true,
+      "icao24": "402035",
+      "registration": "G-UFCP",
+      "typeCode": "C152"
+    },
+    {
+      "active": true,
+      "icao24": "405775",
+      "registration": "G-CHVP",
+      "typeCode": "GLID"
+    },
+    {
+      "active": true,
+      "icao24": "4065c8",
+      "registration": "G-MKER",
+      "typeCode": "ULAC"
+    },
+    {
+      "active": true,
+      "icao24": "407fcf",
+      "registration": "G-CMOL",
+      "typeCode": "ZZZZ"
+    },
+    {
+      "active": true,
+      "icao24": "4083e9",
+      "registration": "G-ZSAS",
+      "typeCode": "B350"
+    },
+    {
+      "active": true,
+      "icao24": "424466",
+      "registration": "VQ-BBD",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "424cdd",
+      "registration": "M-ARLI",
+      "typeCode": "FA8X"
+    },
+    {
+      "active": true,
+      "icao24": "424cde",
+      "registration": "M-RRRR",
+      "typeCode": "GL7T"
+    },
+    {
+      "active": true,
+      "icao24": "425b15",
+      "registration": "VQ-CDT",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "43ec73",
+      "registration": "2-TRVL",
+      "typeCode": "GL5T"
+    },
+    {
+      "active": true,
+      "icao24": "43ee14",
+      "registration": "2-VNAA",
+      "typeCode": "A321"
+    },
+    {
+      "active": true,
+      "icao24": "43f80a",
+      "registration": "2-SHEZ",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "43f831",
+      "registration": "2-BOOZ",
+      "typeCode": "EC55"
+    },
+    {
+      "active": true,
+      "icao24": "43f859",
+      "registration": "2-YAYS",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "44023c",
+      "registration": "OE-LXG",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "440571",
+      "registration": "OE-GPL",
+      "typeCode": "C550"
+    },
+    {
+      "active": true,
+      "icao24": "440574",
+      "registration": "OE-XYC",
+      "typeCode": "R44"
+    },
+    {
+      "active": true,
+      "icao24": "448608",
+      "registration": "OO-APH",
+      "typeCode": "R44"
+    },
+    {
+      "active": true,
+      "icao24": "45aaed",
+      "registration": "OY-JWM",
+      "typeCode": "M700"
+    },
+    {
+      "active": true,
+      "icao24": "46b841",
+      "registration": "SX-NBA",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "479c4d",
+      "registration": "LN-OQZ",
+      "typeCode": "S92"
+    },
+    {
+      "active": true,
+      "icao24": "4810f5",
+      "registration": "Z-901",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4810f6",
+      "registration": "Z-902",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4810f7",
+      "registration": "Z-903",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4810f8",
+      "registration": "Z-904",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4810f9",
+      "registration": "Z-905",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4810fa",
+      "registration": "Z-906",
+      "typeCode": "FFLO"
+    },
+    {
+      "active": true,
+      "icao24": "4844af",
+      "registration": "P4-RMS",
+      "typeCode": "FA7X"
+    },
+    {
+      "active": true,
+      "icao24": "4844b4",
+      "registration": "P4-IAP",
+      "typeCode": "BE40"
+    },
+    {
+      "active": true,
+      "icao24": "4952d3",
+      "registration": "CS-TVS",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "49d698",
+      "registration": "OK-VOS",
+      "typeCode": "GA6C"
+    },
+    {
+      "active": true,
+      "icao24": "49d69a",
+      "registration": "OK-ANN",
+      "typeCode": "E55P"
+    },
+    {
+      "active": true,
+      "icao24": "4ab5d6",
+      "registration": "SE-MNV",
+      "typeCode": "BW60"
+    },
+    {
+      "active": true,
+      "icao24": "4b17c5",
+      "registration": "HB-JAB",
+      "typeCode": "FA8X"
+    },
+    {
+      "active": true,
+      "icao24": "4b3a05",
+      "registration": "HB-VZH",
+      "typeCode": "PC24"
+    },
+    {
+      "active": true,
+      "icao24": "4bb053",
+      "registration": "TC-LBS",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "4bce49",
+      "registration": "TC-SRI",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "4d2284",
+      "registration": "9H-SAG",
+      "typeCode": "E55P"
+    },
+    {
+      "active": true,
+      "icao24": "4d2296",
+      "registration": "9H-ZTE",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "4d229e",
+      "registration": "9H-JZM",
+      "typeCode": "PC24"
+    },
+    {
+      "active": true,
+      "icao24": "500568",
+      "registration": "T7-GAHL",
+      "typeCode": "GLEX"
+    },
+    {
+      "active": true,
+      "icao24": "500569",
+      "registration": "T7-77JG",
+      "typeCode": "GA5C"
+    },
+    {
+      "active": true,
+      "icao24": "50056d",
+      "registration": "T7-7JG",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "500575",
+      "registration": "T7-LFKN",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "501c5b",
+      "registration": "9A-CAW",
+      "typeCode": "BCS3"
+    },
+    {
+      "active": true,
+      "icao24": "501c5c",
+      "registration": "9A-CAX",
+      "typeCode": "BCS3"
+    },
+    {
+      "active": true,
+      "icao24": "507cc7",
+      "registration": "UK67023",
+      "typeCode": "B763"
+    },
+    {
+      "active": true,
+      "icao24": "507f8b",
+      "registration": "205WHITE",
+      "typeCode": "AS32"
+    },
+    {
+      "active": true,
+      "icao24": "507f9b",
+      "registration": "UZ-01",
+      "typeCode": "EC75"
+    },
+    {
+      "active": true,
+      "icao24": "507fa7",
+      "registration": "111WHITE",
+      "typeCode": "AS50"
+    },
+    {
+      "active": true,
+      "icao24": "507fa8",
+      "registration": "UZ-02",
+      "typeCode": "EC75"
+    },
+    {
+      "active": true,
+      "icao24": "508266",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "5082e3",
+      "registration": "UR-WEL",
+      "typeCode": "EC20"
+    },
+    {
+      "active": true,
+      "icao24": "5083a8",
+      "registration": "UR-VBC",
+      "typeCode": "MI8"
+    },
+    {
+      "active": true,
+      "icao24": "5083ea",
+      "registration": "UR-VBE",
+      "typeCode": "MI8"
+    },
+    {
+      "active": true,
+      "icao24": "511159",
+      "registration": "ES-NSK",
+      "typeCode": "SF34"
+    },
+    {
+      "active": true,
+      "icao24": "716ffd",
+      "registration": "HZ-ASBC",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "71c768",
+      "registration": "HL8768",
+      "typeCode": "A332"
+    },
+    {
+      "active": true,
+      "icao24": "71ce60",
+      "registration": "HL9660",
+      "typeCode": "S64"
+    },
+    {
+      "active": true,
+      "icao24": "750408",
+      "registration": "9M-LCK",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "78244f",
+      "registration": "B-229D",
+      "typeCode": "B77L"
+    },
+    {
+      "active": true,
+      "icao24": "782459",
+      "registration": "B-229L",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "78247d",
+      "registration": "B-32SU",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "782495",
+      "registration": "B-229Z",
+      "typeCode": "B77L"
+    },
+    {
+      "active": true,
+      "icao24": "7824ba",
+      "registration": "B-32T7",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "7892af",
+      "registration": "B-KNA",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "7a3076",
+      "registration": "11055",
+      "typeCode": "Y20"
+    },
+    {
+      "active": true,
+      "icao24": "7a3079",
+      "registration": "11156",
+      "typeCode": "Y20"
+    },
+    {
+      "active": true,
+      "icao24": "7c1834",
+      "registration": "VH-E2E",
+      "typeCode": "E290"
+    },
+    {
+      "active": true,
+      "icao24": "7c5b2e",
+      "registration": "VH-SAO",
+      "typeCode": "PA31"
+    },
+    {
+      "active": true,
+      "icao24": "7c78b6",
+      "registration": "VH-X4O",
+      "typeCode": "BCS3"
+    },
+    {
+      "active": true,
+      "icao24": "7cad4e",
+      "registration": "VH-8IO",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "8018c4",
+      "registration": "VT-YBV",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "80191b",
+      "registration": "VT-NOP",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "801921",
+      "registration": "VT-NLD",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "80196f",
+      "registration": "VT-NOX",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "801970",
+      "registration": "VT-NOV",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "801971",
+      "registration": "VT-NON",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "801975",
+      "registration": "VT-NOZ",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "888253",
+      "registration": "VN-A998",
+      "typeCode": "GA7C"
+    },
+    {
+      "active": true,
+      "icao24": "88827b",
+      "registration": "VN-A292",
+      "typeCode": "A321"
+    },
+    {
+      "active": true,
+      "icao24": "896715",
+      "registration": "A6-LRM",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "89674a",
+      "registration": "A6-ARN",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "899024",
+      "registration": "B-50003",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "8990d1",
+      "registration": "B-55310",
+      "typeCode": "A339"
+    },
+    {
+      "active": true,
+      "icao24": "8a0aba",
+      "registration": "PK-TLO",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "a12b94",
+      "registration": "N17482",
+      "typeCode": "B39M"
+    },
+    {
+      "active": true,
+      "icao24": "a2d9b3",
+      "registration": "N283FX",
+      "typeCode": "E545"
+    },
+    {
+      "active": true,
+      "icao24": "a44634",
+      "registration": "N37484",
+      "typeCode": "B39M"
+    },
+    {
+      "active": true,
+      "icao24": "a63b8d",
+      "registration": "PR-FIG",
+      "typeCode": "PA34"
+    },
+    {
+      "active": true,
+      "icao24": "a67552",
+      "registration": "N515PL",
+      "typeCode": "GA7C"
+    },
+    {
+      "active": true,
+      "icao24": "a80cce",
+      "registration": "N618DN",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "aa218b",
+      "registration": "N752AV",
+      "typeCode": "GL7T"
+    },
+    {
+      "active": true,
+      "icao24": "aa4633",
+      "registration": "N37483",
+      "typeCode": "B39M"
+    },
+    {
+      "active": true,
+      "icao24": "abb0b1",
+      "registration": "N852VR",
+      "typeCode": "GA7C"
+    },
+    {
+      "active": true,
+      "icao24": "abf5ba",
+      "registration": "N87TV",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "ac3b8c",
+      "registration": "N888",
+      "typeCode": "G150"
+    },
+    {
+      "active": true,
+      "icao24": "ac6f92",
+      "registration": "N900EB",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "ac7d6d",
+      "registration": "N9035W",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "acbd05",
+      "registration": "N92NH",
+      "typeCode": "B407"
+    },
+    {
+      "active": true,
+      "icao24": "ae4b81",
+      "registration": "163075",
+      "typeCode": "H53"
+    },
+    {
+      "active": true,
+      "icao24": "af3b57",
+      "registration": "25-1028",
+      "typeCode": "A139"
+    },
+    {
+      "active": true,
+      "icao24": "af3bd0",
+      "registration": "22-6012",
+      "typeCode": "C30J"
+    },
+    {
+      "active": true,
+      "icao24": "af549d",
+      "registration": "23-46122",
+      "typeCode": "B762"
+    },
+    {
+      "active": true,
+      "icao24": "af6130",
+      "registration": "23-46125",
+      "typeCode": "B762"
+    },
+    {
+      "active": true,
+      "icao24": "af6131",
+      "registration": "170976",
+      "typeCode": "BE20"
+    },
+    {
+      "active": true,
+      "icao24": "af6bc9",
+      "registration": "170977",
+      "typeCode": "BE20"
+    },
+    {
+      "active": true,
+      "icao24": "af8424",
+      "registration": "170810",
+      "typeCode": "C30J"
+    },
+    {
+      "active": true,
+      "icao24": "afc654",
+      "registration": "23-14564",
+      "typeCode": "H60"
+    },
+    {
+      "active": true,
+      "icao24": "c000ad",
+      "registration": "C-FAGQ",
+      "typeCode": "PA34"
+    },
+    {
+      "active": true,
+      "icao24": "c024d7",
+      "registration": "C-FNYS",
+      "typeCode": "PA14"
+    },
+    {
+      "active": true,
+      "icao24": "c0335d",
+      "registration": "C-FTLS",
+      "typeCode": "K100"
+    },
+    {
+      "active": true,
+      "icao24": "c038c1",
+      "registration": "C-FVMU",
+      "typeCode": "SREY"
+    },
+    {
+      "active": true,
+      "icao24": "c03caf",
+      "registration": "C-FWZM",
+      "typeCode": "C408"
+    },
+    {
+      "active": true,
+      "icao24": "c061ad",
+      "registration": "C-GKZS",
+      "typeCode": "E295"
+    },
+    {
+      "active": true,
+      "icao24": "c07d4c",
+      "registration": "C-GVLR",
+      "typeCode": "C185"
+    },
+    {
+      "active": true,
+      "icao24": "c07f4e",
+      "registration": "C-GWFL",
+      "typeCode": "CRJ9"
+    },
+    {
+      "active": true,
+      "icao24": "c0819f",
+      "registration": "C-GXCG",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "c081de",
+      "registration": "C-GXER",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "e06145",
+      "registration": "LV-FEE",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "e10545",
+      "registration": "LV-PUE",
+      "typeCode": "H25B"
+    },
+    {
+      "active": true,
+      "icao24": "e120da",
+      "registration": "LV-RCZ",
+      "typeCode": "C150"
+    },
+    {
+      "active": true,
+      "icao24": "e13053",
+      "registration": "LV-SAS",
+      "typeCode": "SR22"
+    },
+    {
+      "active": true,
+      "icao24": "e4a201",
+      "registration": "PS-IGI",
+      "typeCode": "C25M"
+    },
+    {
+      "active": true,
+      "icao24": "e4a324",
+      "registration": "PS-SUL",
+      "typeCode": "BE20"
+    },
+    {
+      "active": true,
+      "icao24": "e4a613",
+      "registration": "PS-VOW",
+      "typeCode": "DA62"
+    },
+    {
+      "active": true,
+      "icao24": "e4a740",
+      "registration": "PP-MDO",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "e4a770",
+      "registration": "PS-ADM",
+      "typeCode": "E295"
+    },
+    {
+      "active": true,
+      "icao24": "e4a82b",
+      "registration": "PS-DER",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "e80488",
+      "registration": "CC-BHK",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "e8048c",
+      "registration": "CC-BHP",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "e8063e",
+      "registration": "CC-DOK",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "e88165",
+      "registration": "FAP2037",
+      "typeCode": "C408"
+    }
+  ],
+  "aircraftTypes": [],
+  "airlines": [],
+  "baseRevision": "mictronics-0eff665fa067e1fff56288f71d0360a1339b9cad",
+  "deactivatedIcao24": [],
+  "generatedAt": "2026-10-04T16:58:44Z",
+  "revision": "mictronics-3f80a2d7c8a170352e03e29f2e8c9bd77e00d5db",
+  "schemaVersion": 1,
+  "source": {
+    "id": "mictronics-aircraft-database",
+    "licence": "ODC Attribution License (ODC-By)",
+    "licenceUrl": "https://github.com/Mictronics/aircraft-database/blob/main/LICENSE",
+    "name": "Mictronics Aircraft Database",
+    "url": "https://github.com/Mictronics/aircraft-database"
+  }
+}
