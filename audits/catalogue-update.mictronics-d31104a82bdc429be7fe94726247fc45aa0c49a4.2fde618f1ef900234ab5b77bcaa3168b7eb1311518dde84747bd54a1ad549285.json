@@ -1,0 +1,81 @@
+{
+  "baseRevision": "mictronics-e7ff3f1474334b3f00d50a6661ef1c16754721a5",
+  "checks": {
+    "allPackagePayloadLimits": true,
+    "allPackageRowLimits": true,
+    "baseRevisionChain": true,
+    "deactivationGuard": true,
+    "deterministicOrdering": true,
+    "minimumSourceRows": true,
+    "ownerPiiExcluded": true,
+    "priorDatabaseOpenedReadOnly": true,
+    "priorDatabaseQuickCheck": true,
+    "runtimeContract": true,
+    "runtimeIndexLimit": true,
+    "typesBeforeAircraft": true
+  },
+  "comparisonSha256": "b3f1dc1c80440545ec12fefbcb64d28831bdb1d34c17f15851ec1d136164849e",
+  "counts": {
+    "aircraftDeactivated": 0,
+    "aircraftDeactivationCandidates": 241,
+    "aircraftDeactivationsSuppressed": 241,
+    "aircraftInserted": 139,
+    "aircraftReactivated": 0,
+    "aircraftSameSourceDeactivationCandidates": 241,
+    "aircraftSkippedMissingRegistration": 1,
+    "aircraftTypesAdded": 0,
+    "aircraftTypesUnchanged": 2788,
+    "aircraftTypesUpdated": 0,
+    "aircraftUnchanged": 452171,
+    "aircraftUpdated": 10,
+    "airlinesEmitted": 0,
+    "ownerPiiFieldsEmitted": 0,
+    "priorActiveAircraft": 452422,
+    "priorAircraftInvalidTypeCodes": 0,
+    "priorAircraftRows": 452422,
+    "priorAircraftTypeRowsSkipped": 0,
+    "runtimeDeltaRows": 149,
+    "sourceAircraftRows": 452321,
+    "sourceAircraftTypes": 2788,
+    "sourceAircraftWithRegistration": 452320,
+    "sourceAircraftWithoutRegistration": 1
+  },
+  "deactivation": {
+    "candidateRows": 241,
+    "emittedRows": 0,
+    "policy": "none",
+    "rowProvenanceRequired": true,
+    "sameSourceCandidateRows": 241,
+    "suppressedRows": 241,
+    "trustedSameSource": true
+  },
+  "generatedAt": "2026-10-25T09:05:04Z",
+  "index": {
+    "bytes": 899,
+    "sha256": "e0e1db63b6283ae8a3d064e722a218092370438ab2e064495b6e568dd7e7c02f"
+  },
+  "input": {
+    "contentSha256": "6087575dd85dd2f980dbef8fbbb1d107d0c15fad9b911d2e5bfe8db99bc01ee7",
+    "format": "Mictronics indexedDB",
+    "kind": "zip"
+  },
+  "kind": "planespotter-aircraft-catalogue-chain-audit",
+  "packages": [
+    {
+      "baseRevision": "mictronics-e7ff3f1474334b3f00d50a6661ef1c16754721a5",
+      "part": 1,
+      "payloadBytes": 18152,
+      "payloadSha256": "b3f1dc1c80440545ec12fefbcb64d28831bdb1d34c17f15851ec1d136164849e",
+      "payloadUrl": "catalogue-delta.part-0001.b3f1dc1c80440545ec12fefbcb64d28831bdb1d34c17f15851ec1d136164849e.json",
+      "revision": "mictronics-d31104a82bdc429be7fe94726247fc45aa0c49a4",
+      "rows": 149,
+      "stage": "aircraft"
+    }
+  ],
+  "prior": {
+    "revision": "mictronics-e7ff3f1474334b3f00d50a6661ef1c16754721a5",
+    "sourceId": "mictronics-aircraft-database"
+  },
+  "revision": "mictronics-d31104a82bdc429be7fe94726247fc45aa0c49a4",
+  "schemaVersion": 1
+}
