@@ -305,6 +305,22 @@
         "name": "Mictronics Aircraft Database",
         "url": "https://github.com/Mictronics/aircraft-database"
       }
+    },
+    {
+      "baseRevision": "mictronics-d31104a82bdc429be7fe94726247fc45aa0c49a4",
+      "generatedAt": "2026-11-01T08:00:18Z",
+      "payloadBytes": 27361,
+      "payloadSha256": "4eee41c5eb5da3e08e76be9ee39cbb59a8f27b2c112d1b5bce785d4542df9fac",
+      "payloadUrl": "catalogue-delta.part-0001.4eee41c5eb5da3e08e76be9ee39cbb59a8f27b2c112d1b5bce785d4542df9fac.json",
+      "revision": "mictronics-52d05bb6c8dcb01d2f96a3144afa94bd3d00438e",
+      "schemaVersion": 1,
+      "source": {
+        "id": "mictronics-aircraft-database",
+        "licence": "ODC Attribution License (ODC-By)",
+        "licenceUrl": "https://github.com/Mictronics/aircraft-database/blob/main/LICENSE",
+        "name": "Mictronics Aircraft Database",
+        "url": "https://github.com/Mictronics/aircraft-database"
+      }
     }
   ]
 }
