@@ -5,17 +5,17 @@
     "url": "ATTRIBUTION.md"
   },
   "chain": {
-    "bytes": 16622,
-    "sha256": "f69c52d070061ec093bc7ed39d17fd5bde4a0952dba33e9da4f6244446d289ec",
+    "bytes": 17427,
+    "sha256": "d3cb75526938dbedf13a7cb59f79e636b217491837c91561dfe2b46cc7e38f72",
     "url": "catalogue-chain.json"
   },
-  "generatedAt": "2026-11-01T08:00:18Z",
+  "generatedAt": "2026-11-08T07:58:50Z",
   "kind": "planespotter-aircraft-catalogue-publication",
-  "lastObservedArchiveSha256": "88bddea94d78a65e047164fb950cc6fc16661e8251f6949e8ed978c06fbadc22",
-  "lastObservedAt": "2026-11-01T08:00:18Z",
-  "lastObservedUpstreamBlobSha": "04ff477daa97dcd46a4011d8bef14a055f469eb2",
-  "lastObservedUpstreamRevision": "52d05bb6c8dcb01d2f96a3144afa94bd3d00438e",
-  "latestRevision": "mictronics-52d05bb6c8dcb01d2f96a3144afa94bd3d00438e",
+  "lastObservedArchiveSha256": "fd9bd2d7fd27d9a52f32abbb7751a4f9f66bc1744bbd5a14797b95c945094ae0",
+  "lastObservedAt": "2026-11-08T07:58:50Z",
+  "lastObservedUpstreamBlobSha": "e0e18a6d33f8af5b46f882e04970d2fb0fda755e",
+  "lastObservedUpstreamRevision": "479e4d016c596214c8ab853d8fdf3175ce6739d3",
+  "latestRevision": "mictronics-479e4d016c596214c8ab853d8fdf3175ce6739d3",
   "releases": [
     {
       "audit": {
@@ -379,6 +379,39 @@
       "sourceContentSha256": "e8724fac890a3994e96fc873b9709c4da0c0973e5461ac6fbeaf778eecfc9818",
       "upstreamBlobSha": "04ff477daa97dcd46a4011d8bef14a055f469eb2",
       "upstreamRevision": "52d05bb6c8dcb01d2f96a3144afa94bd3d00438e"
+    },
+    {
+      "audit": {
+        "bytes": 2738,
+        "sha256": "da8cba3f16abbe02b82f67710c8bc60a9a6a0180e0c91169c99c66786cd403f8",
+        "url": "audits/catalogue-update.mictronics-479e4d016c596214c8ab853d8fdf3175ce6739d3.da8cba3f16abbe02b82f67710c8bc60a9a6a0180e0c91169c99c66786cd403f8.json"
+      },
+      "baseRevision": "mictronics-52d05bb6c8dcb01d2f96a3144afa94bd3d00438e",
+      "canonicalState": {
+        "aircraftRows": 456228,
+        "aircraftTypeRows": 2788,
+        "logicalSha256": "2c5d258b6a5e4e2090294a7a17c5f6926e42b00ab1666be166d4a489d78c5b0c",
+        "revision": "mictronics-479e4d016c596214c8ab853d8fdf3175ce6739d3",
+        "sourceOwnedAircraftRows": 456228
+      },
+      "generatedAt": "2026-11-08T07:58:50Z",
+      "indexSnapshot": {
+        "bytes": 17427,
+        "sha256": "d3cb75526938dbedf13a7cb59f79e636b217491837c91561dfe2b46cc7e38f72",
+        "url": "indexes/catalogue-chain.d3cb75526938dbedf13a7cb59f79e636b217491837c91561dfe2b46cc7e38f72.json"
+      },
+      "revision": "mictronics-479e4d016c596214c8ab853d8fdf3175ce6739d3",
+      "safety": {
+        "bootstrapApproved": false,
+        "changeRatio": 0.007733677247284659,
+        "deactivationPolicy": "none",
+        "largeChangeApproved": false
+      },
+      "sourceAircraftRows": 455928,
+      "sourceArchiveSha256": "fd9bd2d7fd27d9a52f32abbb7751a4f9f66bc1744bbd5a14797b95c945094ae0",
+      "sourceContentSha256": "08f1df64eedd6e7b6902661f70368393029fa78ced2af235bd6fa01617f9af71",
+      "upstreamBlobSha": "e0e18a6d33f8af5b46f882e04970d2fb0fda755e",
+      "upstreamRevision": "479e4d016c596214c8ab853d8fdf3175ce6739d3"
     }
   ],
   "schemaVersion": 1,
@@ -389,8 +422,8 @@
     "name": "Mictronics Aircraft Database",
     "url": "https://github.com/Mictronics/aircraft-database"
   },
-  "sourceArchiveSha256": "88bddea94d78a65e047164fb950cc6fc16661e8251f6949e8ed978c06fbadc22",
-  "sourceContentSha256": "e8724fac890a3994e96fc873b9709c4da0c0973e5461ac6fbeaf778eecfc9818",
-  "upstreamBlobSha": "04ff477daa97dcd46a4011d8bef14a055f469eb2",
-  "upstreamRevision": "52d05bb6c8dcb01d2f96a3144afa94bd3d00438e"
+  "sourceArchiveSha256": "fd9bd2d7fd27d9a52f32abbb7751a4f9f66bc1744bbd5a14797b95c945094ae0",
+  "sourceContentSha256": "08f1df64eedd6e7b6902661f70368393029fa78ced2af235bd6fa01617f9af71",
+  "upstreamBlobSha": "e0e18a6d33f8af5b46f882e04970d2fb0fda755e",
+  "upstreamRevision": "479e4d016c596214c8ab853d8fdf3175ce6739d3"
 }
