@@ -1,0 +1,6684 @@
+{
+  "aircraft": [
+    {
+      "active": true,
+      "icao24": "00830a",
+      "registration": "ZS-AJC",
+      "typeCode": "C210"
+    },
+    {
+      "active": true,
+      "icao24": "009296",
+      "registration": "ZS-HAJ",
+      "typeCode": "B06"
+    },
+    {
+      "active": true,
+      "icao24": "00a10a",
+      "registration": "ZS-MMR",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "00a75c",
+      "registration": "ZS-OWX",
+      "typeCode": "AN32"
+    },
+    {
+      "active": true,
+      "icao24": "00ae60",
+      "registration": "ZS-RNZ",
+      "typeCode": "R22"
+    },
+    {
+      "active": true,
+      "icao24": "0101f2",
+      "registration": "SU-GFE",
+      "typeCode": "BCS3"
+    },
+    {
+      "active": true,
+      "icao24": "017001",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017002",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017003",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017004",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017005",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017006",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "017007",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "0180be",
+      "registration": "5A-OYA",
+      "typeCode": "B772"
+    },
+    {
+      "active": true,
+      "icao24": "0201da",
+      "registration": "CN-RHW",
+      "typeCode": "E190"
+    },
+    {
+      "active": true,
+      "icao24": "064359",
+      "registration": "5N-XEM",
+      "typeCode": "CRJ9"
+    },
+    {
+      "active": true,
+      "icao24": "06a209",
+      "registration": "QA400",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a20a",
+      "registration": "QA401",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a20b",
+      "registration": "QA402",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a20c",
+      "registration": "QA403",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a20d",
+      "registration": "QA404",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a210",
+      "registration": "QA407",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a212",
+      "registration": "QA409",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a216",
+      "registration": "QA413",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "06a21d",
+      "registration": "QA420",
+      "typeCode": "EUFI"
+    },
+    {
+      "active": true,
+      "icao24": "090166",
+      "registration": "D2-TAQ",
+      "typeCode": "BCS3"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1af",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "0ac1b6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "150669",
+      "registration": "RA-67177",
+      "typeCode": "C208"
+    },
+    {
+      "active": true,
+      "icao24": "201000",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013a2",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013a9",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013ad",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013ae",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013b4",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013d8",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013fa",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "2013ff",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "300a5e",
+      "registration": "I-SBLU",
+      "typeCode": "S22T"
+    },
+    {
+      "active": true,
+      "icao24": "300aae",
+      "registration": "I-CNAD",
+      "typeCode": "BR23"
+    },
+    {
+      "active": true,
+      "icao24": "300ae0",
+      "registration": "I-GAFE",
+      "typeCode": "P212"
+    },
+    {
+      "active": true,
+      "icao24": "300ae4",
+      "registration": "I-ANGL",
+      "typeCode": "P06T"
+    },
+    {
+      "active": true,
+      "icao24": "33fd7f",
+      "registration": "CSX62310",
+      "typeCode": "AT76"
+    },
+    {
+      "active": true,
+      "icao24": "3490c5",
+      "registration": "EC-OXP",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "38217a",
+      "registration": "F-WWMB",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "3821ba",
+      "registration": "F-WWMD",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "38771b",
+      "registration": "F-WHUH",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "3b7b6a",
+      "registration": "F-ZBRI",
+      "typeCode": "EC45"
+    },
+    {
+      "active": true,
+      "icao24": "3b7b77",
+      "registration": "F-ZBRH",
+      "typeCode": "EC45"
+    },
+    {
+      "active": true,
+      "icao24": "3c7873",
+      "registration": "D-ANCS",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "3efab6",
+      "registration": "D-6687",
+      "typeCode": "GLID"
+    },
+    {
+      "active": true,
+      "icao24": "3f9702",
+      "registration": "46+02",
+      "typeCode": "TOR"
+    },
+    {
+      "active": true,
+      "icao24": "402263",
+      "registration": "G-NCUB",
+      "typeCode": "J3"
+    },
+    {
+      "active": true,
+      "icao24": "406587",
+      "registration": "G-CGWI",
+      "typeCode": "SASP"
+    },
+    {
+      "active": true,
+      "icao24": "407e5e",
+      "registration": "G-EJCS",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "407edf",
+      "registration": "G-OBLR",
+      "typeCode": "C172"
+    },
+    {
+      "active": true,
+      "icao24": "408172",
+      "registration": "G-CMUX",
+      "typeCode": "R44"
+    },
+    {
+      "active": true,
+      "icao24": "4081b6",
+      "registration": "G-CSHW",
+      "typeCode": "B06"
+    },
+    {
+      "active": true,
+      "icao24": "4083b3",
+      "registration": "G-WOWZ",
+      "typeCode": "CLON"
+    },
+    {
+      "active": true,
+      "icao24": "408400",
+      "registration": "G-TNEK",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "424cd7",
+      "registration": "M-OVIE",
+      "typeCode": "GA8C"
+    },
+    {
+      "active": true,
+      "icao24": "425b14",
+      "registration": "VQ-CDS",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "43eb78",
+      "registration": "2-HOME",
+      "typeCode": "A109"
+    },
+    {
+      "active": true,
+      "icao24": "440056",
+      "registration": "OE-LAM",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "4400b4",
+      "registration": "OE-EGT",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "440181",
+      "registration": "OE-LPK",
+      "typeCode": "B789"
+    },
+    {
+      "active": true,
+      "icao24": "484340",
+      "registration": "P4-CRM",
+      "typeCode": "B734"
+    },
+    {
+      "active": true,
+      "icao24": "4952d4",
+      "registration": "CS-TVT",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "4b0f1e",
+      "registration": "HB-FSW",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "4b1509",
+      "registration": "HB-IHD",
+      "typeCode": "A359"
+    },
+    {
+      "active": true,
+      "icao24": "4b1d1b",
+      "registration": "HB-LAP",
+      "typeCode": "DHC6"
+    },
+    {
+      "active": true,
+      "icao24": "4b330f",
+      "registration": "HB-TIT",
+      "typeCode": "EC45"
+    },
+    {
+      "active": true,
+      "icao24": "4b3310",
+      "registration": "HB-TIU",
+      "typeCode": "EC45"
+    },
+    {
+      "active": true,
+      "icao24": "4b805d",
+      "registration": "98-5459",
+      "typeCode": "C30J"
+    },
+    {
+      "active": true,
+      "icao24": "4b8468",
+      "registration": "TC-ACH",
+      "typeCode": "B744"
+    },
+    {
+      "active": true,
+      "icao24": "4b84ad",
+      "registration": "TC-AEM",
+      "typeCode": "GL5T"
+    },
+    {
+      "active": true,
+      "icao24": "4b996e",
+      "registration": "TC-FKN",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "4bb89a",
+      "registration": "TC-NDZ",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "4ca72c",
+      "registration": "EI-KFJ",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "4d203d",
+      "registration": "9H-CAH",
+      "typeCode": "B763"
+    },
+    {
+      "active": true,
+      "icao24": "4d22a9",
+      "registration": "9H-MIB",
+      "typeCode": "EC35"
+    },
+    {
+      "active": true,
+      "icao24": "4d22aa",
+      "registration": "9H-SED",
+      "typeCode": "EC35"
+    },
+    {
+      "active": true,
+      "icao24": "5000e9",
+      "registration": "RP-C8450",
+      "typeCode": "GLF4"
+    },
+    {
+      "active": true,
+      "icao24": "50054f",
+      "registration": "T7-LEAH",
+      "typeCode": "A306"
+    },
+    {
+      "active": true,
+      "icao24": "500557",
+      "registration": "T7-6600",
+      "typeCode": "GA7C"
+    },
+    {
+      "active": true,
+      "icao24": "500565",
+      "registration": "T7-SAM",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "500573",
+      "registration": "T7-SUN",
+      "typeCode": "A332"
+    },
+    {
+      "active": true,
+      "icao24": "50057a",
+      "registration": "T7-LOAD",
+      "typeCode": "A321"
+    },
+    {
+      "active": true,
+      "icao24": "503c8d",
+      "registration": "LY-OOV",
+      "typeCode": "AT43"
+    },
+    {
+      "active": true,
+      "icao24": "505583",
+      "registration": "T7-BSW",
+      "typeCode": "E35L"
+    },
+    {
+      "active": true,
+      "icao24": "505be0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "505be1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "60004b",
+      "registration": "EK-AAF",
+      "typeCode": "B738"
+    },
+    {
+      "active": true,
+      "icao24": "681001",
+      "registration": "V6-SEA",
+      "typeCode": "E145"
+    },
+    {
+      "active": true,
+      "icao24": "706076",
+      "registration": "9K-APN",
+      "typeCode": "A339"
+    },
+    {
+      "active": true,
+      "icao24": "70a8ea",
+      "registration": "9N-AOR",
+      "typeCode": "AS50"
+    },
+    {
+      "active": true,
+      "icao24": "71c775",
+      "registration": "HL8775",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "7380cd",
+      "registration": "4X-EDO",
+      "typeCode": "B789"
+    },
+    {
+      "active": true,
+      "icao24": "739640",
+      "registration": "4X-ITO",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "7505b2",
+      "registration": "M73-01",
+      "typeCode": "A189"
+    },
+    {
+      "active": true,
+      "icao24": "7505b3",
+      "registration": "M73-02",
+      "typeCode": "A189"
+    },
+    {
+      "active": true,
+      "icao24": "7505b4",
+      "registration": "M73-03",
+      "typeCode": "A189"
+    },
+    {
+      "active": true,
+      "icao24": "7505bd",
+      "registration": "9M-MNQ",
+      "typeCode": "A339"
+    },
+    {
+      "active": true,
+      "icao24": "7584a2",
+      "registration": "RP-C2161",
+      "typeCode": "PA31"
+    },
+    {
+      "active": true,
+      "icao24": "75853e",
+      "registration": "RP-C7349",
+      "typeCode": "C172"
+    },
+    {
+      "active": true,
+      "icao24": "7586b0",
+      "registration": "RP-C8911",
+      "typeCode": "BE20"
+    },
+    {
+      "active": true,
+      "icao24": "75883e",
+      "registration": "RP-C8937",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "7824a8",
+      "registration": "B-22A0",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "7892b0",
+      "registration": "B-KNB",
+      "typeCode": "A20N"
+    },
+    {
+      "active": true,
+      "icao24": "7a13f3",
+      "registration": "LH972106",
+      "typeCode": "WZ10"
+    },
+    {
+      "active": true,
+      "icao24": "7a1507",
+      "registration": "LH96941",
+      "typeCode": "AS65"
+    },
+    {
+      "active": true,
+      "icao24": "7a18aa",
+      "registration": "LH905923",
+      "typeCode": "AS65"
+    },
+    {
+      "active": true,
+      "icao24": "7a18c6",
+      "registration": "LH905993",
+      "typeCode": "AS65"
+    },
+    {
+      "active": true,
+      "icao24": "7a307f",
+      "registration": "11451",
+      "typeCode": "Y20"
+    },
+    {
+      "active": true,
+      "icao24": "7a3340",
+      "registration": "20043",
+      "typeCode": "Y20"
+    },
+    {
+      "active": true,
+      "icao24": "7a3348",
+      "registration": "20148",
+      "typeCode": "Y20"
+    },
+    {
+      "active": true,
+      "icao24": "7c0321",
+      "registration": "VH-AWJ",
+      "typeCode": "C25B"
+    },
+    {
+      "active": true,
+      "icao24": "7c6d5b",
+      "registration": "VH-VVX",
+      "typeCode": "HROC"
+    },
+    {
+      "active": true,
+      "icao24": "7cb05f",
+      "registration": "VH-84H",
+      "typeCode": "DH8D"
+    },
+    {
+      "active": true,
+      "icao24": "86e07a",
+      "registration": "JA852J",
+      "typeCode": "B788"
+    },
+    {
+      "active": true,
+      "icao24": "884f02",
+      "registration": "HS-SXB",
+      "typeCode": "A320"
+    },
+    {
+      "active": true,
+      "icao24": "8880ef",
+      "registration": "VN-A660",
+      "typeCode": "A321"
+    },
+    {
+      "active": true,
+      "icao24": "88821f",
+      "registration": "VN-A930",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "89647e",
+      "registration": "A6-ATJ",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "8967a9",
+      "registration": "A6-MOO",
+      "typeCode": "GLEX"
+    },
+    {
+      "active": true,
+      "icao24": "a002c2",
+      "registration": "N10EC",
+      "typeCode": "B350"
+    },
+    {
+      "active": true,
+      "icao24": "a02acf",
+      "registration": "N11KV",
+      "typeCode": "GA5C"
+    },
+    {
+      "active": true,
+      "icao24": "a092d1",
+      "registration": "N136PS",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "a095c9",
+      "registration": "N137GA",
+      "typeCode": "G280"
+    },
+    {
+      "active": true,
+      "icao24": "a0b8ae",
+      "registration": "N14575",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a0d948",
+      "registration": "N154CL",
+      "typeCode": "C208"
+    },
+    {
+      "active": true,
+      "icao24": "a181a8",
+      "registration": "N1966J",
+      "typeCode": "C560"
+    },
+    {
+      "active": true,
+      "icao24": "a1b83c",
+      "registration": "N21M",
+      "typeCode": "GL7T"
+    },
+    {
+      "active": true,
+      "icao24": "a1c59a",
+      "registration": "N213KT",
+      "typeCode": "S22T"
+    },
+    {
+      "active": true,
+      "icao24": "a20303",
+      "registration": "N229FX",
+      "typeCode": "CL35"
+    },
+    {
+      "active": true,
+      "icao24": "a23ef8",
+      "registration": "PR-LOT",
+      "typeCode": "BE58"
+    },
+    {
+      "active": true,
+      "icao24": "a335c0",
+      "registration": "N306BL",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "a33ebd",
+      "registration": "N308TK",
+      "typeCode": "E35L"
+    },
+    {
+      "active": true,
+      "icao24": "a34814",
+      "registration": "N310NY",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a3d077",
+      "registration": "N345G",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "a411e7",
+      "registration": "N361VJ",
+      "typeCode": "CL35"
+    },
+    {
+      "active": true,
+      "icao24": "a44653",
+      "registration": "N37490",
+      "typeCode": "B39M"
+    },
+    {
+      "active": true,
+      "icao24": "a45925",
+      "registration": "N38CB",
+      "typeCode": "C208"
+    },
+    {
+      "active": true,
+      "icao24": "a524e8",
+      "registration": "N430UH",
+      "typeCode": "C25M"
+    },
+    {
+      "active": true,
+      "icao24": "a555c2",
+      "registration": "N443A",
+      "typeCode": "CL35"
+    },
+    {
+      "active": true,
+      "icao24": "a5ed7e",
+      "registration": "N481NA",
+      "typeCode": "A319"
+    },
+    {
+      "active": true,
+      "icao24": "a610ab",
+      "registration": "N490FX",
+      "typeCode": "GLF4"
+    },
+    {
+      "active": true,
+      "icao24": "a63a8c",
+      "registration": "N500GF",
+      "typeCode": "GLF5"
+    },
+    {
+      "active": true,
+      "icao24": "a65ff3",
+      "registration": "N51JW",
+      "typeCode": "C25B"
+    },
+    {
+      "active": true,
+      "icao24": "a68cef",
+      "registration": "MOH-4",
+      "typeCode": "B429"
+    },
+    {
+      "active": true,
+      "icao24": "a6915c",
+      "registration": "N522LF",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "a69d4b",
+      "registration": "N525UH",
+      "typeCode": "C25M"
+    },
+    {
+      "active": true,
+      "icao24": "a6b7f7",
+      "registration": "N532BC",
+      "typeCode": "C68A"
+    },
+    {
+      "active": true,
+      "icao24": "a6fda8",
+      "registration": "N55G",
+      "typeCode": "C700"
+    },
+    {
+      "active": true,
+      "icao24": "a7d01c",
+      "registration": "N602QS",
+      "typeCode": "E545"
+    },
+    {
+      "active": true,
+      "icao24": "a810c4",
+      "registration": "N619GA",
+      "typeCode": "GA6C"
+    },
+    {
+      "active": true,
+      "icao24": "a81964",
+      "registration": "N1988S",
+      "typeCode": "F2TH"
+    },
+    {
+      "active": true,
+      "icao24": "a82619",
+      "registration": "PR-SAM",
+      "typeCode": "BE33"
+    },
+    {
+      "active": true,
+      "icao24": "a82956",
+      "registration": "N625FJ",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "a88d44",
+      "registration": "N650FN",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "a88eb1",
+      "registration": "N650WC",
+      "typeCode": "GLEX"
+    },
+    {
+      "active": true,
+      "icao24": "a89077",
+      "registration": "N651AF",
+      "typeCode": "PC24"
+    },
+    {
+      "active": true,
+      "icao24": "a8af3c",
+      "registration": "N659M",
+      "typeCode": "E550"
+    },
+    {
+      "active": true,
+      "icao24": "a8b30a",
+      "registration": "N66MY",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "a91657",
+      "registration": "N685FR",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a91dc5",
+      "registration": "N687FR",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a925fc",
+      "registration": "N689PS",
+      "typeCode": "LJ75"
+    },
+    {
+      "active": true,
+      "icao24": "a95c4f",
+      "registration": "N702DH",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a96b2e",
+      "registration": "N706DL",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "a97081",
+      "registration": "N681FX",
+      "typeCode": "GLF6"
+    },
+    {
+      "active": true,
+      "icao24": "a9cc90",
+      "registration": "N730RP",
+      "typeCode": "C700"
+    },
+    {
+      "active": true,
+      "icao24": "aa0fb0",
+      "registration": "N74755",
+      "typeCode": "A21N"
+    },
+    {
+      "active": true,
+      "icao24": "aa17f2",
+      "registration": "N75CR",
+      "typeCode": "GL7T"
+    },
+    {
+      "active": true,
+      "icao24": "aa2ca5",
+      "registration": "N755AJ",
+      "typeCode": "GL7T"
+    },
+    {
+      "active": true,
+      "icao24": "aa410c",
+      "registration": "N76VB",
+      "typeCode": "P46T"
+    },
+    {
+      "active": true,
+      "icao24": "aac718",
+      "registration": "N794CE",
+      "typeCode": "SF50"
+    },
+    {
+      "active": true,
+      "icao24": "ab2449",
+      "registration": "N817KL",
+      "typeCode": "GL5T"
+    },
+    {
+      "active": true,
+      "icao24": "ab274f",
+      "registration": "N818CJ",
+      "typeCode": "GLF5"
+    },
+    {
+      "active": true,
+      "icao24": "ab64bf",
+      "registration": "N833NV",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "ac0cfd",
+      "registration": "N876DT",
+      "typeCode": "TBM9"
+    },
+    {
+      "active": true,
+      "icao24": "ac308d",
+      "registration": "N885BM",
+      "typeCode": "PC12"
+    },
+    {
+      "active": true,
+      "icao24": "ac3825",
+      "registration": "N887DD",
+      "typeCode": "CL60"
+    },
+    {
+      "active": true,
+      "icao24": "ac8117",
+      "registration": "N9045H",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "ac8165",
+      "registration": "N9047R",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "acd9fb",
+      "registration": "N927UP",
+      "typeCode": "B763"
+    },
+    {
+      "active": true,
+      "icao24": "add661",
+      "registration": "N991AG",
+      "typeCode": "G280"
+    },
+    {
+      "active": true,
+      "icao24": "ae52fd",
+      "registration": "12-08109",
+      "typeCode": "H47"
+    },
+    {
+      "active": true,
+      "icao24": "affa27",
+      "registration": "25-03564",
+      "typeCode": "H64"
+    },
+    {
+      "active": true,
+      "icao24": "c021f3",
+      "registration": "C-FMWG",
+      "typeCode": "RV6"
+    },
+    {
+      "active": true,
+      "icao24": "c029a6",
+      "registration": "C-FPUB",
+      "typeCode": "B190"
+    },
+    {
+      "active": true,
+      "icao24": "c04550",
+      "registration": "C-GAGL",
+      "typeCode": "B78X"
+    },
+    {
+      "active": true,
+      "icao24": "c0508f",
+      "registration": "C-GENE",
+      "typeCode": "GLAS"
+    },
+    {
+      "active": true,
+      "icao24": "c06467",
+      "registration": "C-GMAO",
+      "typeCode": "C185"
+    },
+    {
+      "active": true,
+      "icao24": "c06621",
+      "registration": "C-GMRO",
+      "typeCode": "LJ45"
+    },
+    {
+      "active": true,
+      "icao24": "c06ffa",
+      "registration": "C-GQKN",
+      "typeCode": "DHC6"
+    },
+    {
+      "active": true,
+      "icao24": "c0728a",
+      "registration": "C-GRJT",
+      "typeCode": "CL30"
+    },
+    {
+      "active": true,
+      "icao24": "c07a2f",
+      "registration": "C-GUHA",
+      "typeCode": "CL35"
+    },
+    {
+      "active": true,
+      "icao24": "c07bc8",
+      "registration": "C-GUWT",
+      "typeCode": "C560"
+    },
+    {
+      "active": true,
+      "icao24": "c1e0ec",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e0fc",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e0fd",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e0fe",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e0ff",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e15c",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e15d",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e15e",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e15f",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16a",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16b",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16c",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16d",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16e",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e16f",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e171",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e177",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e178",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e187",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e197",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e1a5",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e1a7",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e1b7",
+      "registration": "TWR",
+      "typeCode": "TWR"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3ed",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3ef",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3f0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3f2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e3f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e407",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e413",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e414",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e41f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e424",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e42a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e42b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e42c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e42f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e430",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e438",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e439",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e43b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e446",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e449",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e46c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e46d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e47f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e485",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e486",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e487",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e488",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e489",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e48c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e48e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e48f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e491",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4a3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4a5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4a6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4a7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4a9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4ae",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4af",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4b1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4b3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4b5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4b9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4be",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4bf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4c2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4c3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4c8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4cb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4cd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4d1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4d2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4d7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4d8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4e6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4e7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4ed",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e4f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e502",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e503",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e524",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e528",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e52d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e52f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e531",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e534",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e537",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e53d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e54b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e54e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e550",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e551",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e553",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e557",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e558",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e55a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e55b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e55c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e55d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e564",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e568",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e569",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e56a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e56b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e57a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e57f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e580",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e584",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e585",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e58a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e58b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e58c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e58d",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e58f",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e590",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e592",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e593",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e594",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e595",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e596",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e597",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5a2",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5a3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5a5",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5a9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ac",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ae",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5af",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5b0",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5b6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5b9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ba",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5bb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5bc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5bd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5be",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5bf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5c9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ca",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5cb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5cc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5cd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ce",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5cf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5d9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5da",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5db",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5dc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5dd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5de",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5df",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5e9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ea",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5eb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ed",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ef",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5f9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5fa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5fb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5fc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5fd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5fe",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e5ff",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e600",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e601",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e602",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e603",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e604",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e605",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e606",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e607",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e608",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e609",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e60f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e610",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e611",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e612",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e613",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e614",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e615",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e616",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e617",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e618",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e619",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e61f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e620",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e621",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e622",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e623",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e624",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e625",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e626",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e627",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e628",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e629",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e62f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e630",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e631",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e632",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e633",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e634",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e635",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e636",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e637",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e638",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e639",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e63f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e640",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e641",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e642",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e643",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e644",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e645",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e646",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e647",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e648",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e649",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e64f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e650",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e651",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e652",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e653",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e654",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e655",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e656",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e657",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e658",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e659",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65a",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e65f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e660",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e661",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e662",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e663",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e664",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e665",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e666",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e667",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e668",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e669",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e66f",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e670",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e671",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e672",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e673",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e674",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e675",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e676",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e677",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e678",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6a7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6a8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6a9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6aa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ab",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ac",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ad",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ae",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6af",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6b9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ba",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6bb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6bc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6bd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6be",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6bf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c5",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c7",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c8",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6c9",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ca",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6cb",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6cc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6cd",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ce",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6cf",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d1",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d2",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d4",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d5",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d7",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d8",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6d9",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6da",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6db",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6dc",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6dd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6de",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6df",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e0",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e1",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e2",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e3",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6e9",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ea",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6eb",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ed",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ef",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f0",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f2",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6f9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6fa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6fb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6fc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6fd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6fe",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e6ff",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e700",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e701",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e702",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7d9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7da",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7db",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7dc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7dd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7de",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7df",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7e9",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ea",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7eb",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ed",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ef",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7f9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7fa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7fb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7fc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7fd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7fe",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e7ff",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e800",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e801",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e802",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e803",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e804",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e805",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e806",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e807",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e808",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e809",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e80f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e810",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e811",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e812",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e813",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e814",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e815",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e816",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e817",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e818",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e819",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e81f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e820",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e821",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e822",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e823",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e824",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e825",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e826",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e827",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e828",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e829",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e82f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e830",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e831",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e832",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e833",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e834",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e835",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e836",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e837",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e838",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e839",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e83f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e840",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e841",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e842",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e843",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e844",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e845",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e846",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e847",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e848",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e849",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e84f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e850",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e851",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e852",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e853",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e854",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e855",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e856",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e857",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e858",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e859",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e85f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e860",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e861",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e862",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e863",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e864",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e866",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e867",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e868",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e869",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e86f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e870",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e871",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e872",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e873",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e874",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e875",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e876",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e877",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e878",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e879",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e87f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e880",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e881",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e882",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e883",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e884",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e885",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e886",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e887",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e888",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e889",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e88f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e890",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e891",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e892",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e893",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e894",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e895",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e896",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e897",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e898",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e899",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e89f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8a9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8aa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ab",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ac",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ad",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ae",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8af",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b2",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8b9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ba",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8bb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8bc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8bd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8be",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8bf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8c9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ca",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8cb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8cc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8cd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ce",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8cf",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8d9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8da",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8db",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8dc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8dd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8de",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8df",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8e9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ea",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8eb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ed",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ef",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f7",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8f9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8fa",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8fb",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8fc",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8fd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8fe",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e8ff",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e900",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e901",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e902",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e903",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e904",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e905",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e906",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e907",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e908",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e909",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e90f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e910",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e911",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e912",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e913",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e914",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e915",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e916",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e917",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e918",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e919",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e91f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e920",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e921",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e922",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e923",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e924",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e925",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e926",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e927",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e928",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e929",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e92f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e930",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e931",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e932",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e933",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e934",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e935",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e936",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e937",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e938",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e939",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e93f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e940",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e941",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e942",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e943",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e944",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e945",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e946",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e947",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e948",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e949",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e94f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e950",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e951",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e952",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e953",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e954",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e955",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e956",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e957",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e958",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e959",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95b",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e95f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e960",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e961",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e962",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e963",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e965",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e967",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e96a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e96c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e96d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e96e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e96f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e970",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e971",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e97b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e97c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e97d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e97e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e97f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e982",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9ae",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9c8",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9d6",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9dd",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9de",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9ec",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9ee",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9ef",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f0",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f1",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f2",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f3",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f4",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f5",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9f9",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9fa",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1e9fc",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea00",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea03",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea22",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea38",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea3b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea3c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea3d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea3e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea3f",
+      "registration": "EMER",
+      "typeCode": "EMER"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea40",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea41",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea42",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea43",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea44",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea45",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea55",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea57",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea58",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea5f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea69",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6a",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6b",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6c",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6d",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6e",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea6f",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea70",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea71",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea72",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea73",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea74",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea75",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea76",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea77",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea78",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "c1ea79",
+      "registration": "GND",
+      "typeCode": "GND"
+    },
+    {
+      "active": true,
+      "icao24": "e0b403",
+      "registration": "LQ-KPC",
+      "typeCode": "A109"
+    },
+    {
+      "active": true,
+      "icao24": "e0d4c9",
+      "registration": "LV-MSI",
+      "typeCode": "P28R"
+    },
+    {
+      "active": true,
+      "icao24": "e4a660",
+      "registration": "PR-VSC",
+      "typeCode": "P46T"
+    },
+    {
+      "active": true,
+      "icao24": "e4a711",
+      "registration": "PS-GRS",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "e4a712",
+      "registration": "PS-GRU",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "e4a78a",
+      "registration": "PS-LTD",
+      "typeCode": "E295"
+    },
+    {
+      "active": true,
+      "icao24": "e4a78b",
+      "registration": "PS-LTC",
+      "typeCode": "E295"
+    },
+    {
+      "active": true,
+      "icao24": "e4a7f5",
+      "registration": "PS-OTM",
+      "typeCode": "BE9L"
+    },
+    {
+      "active": true,
+      "icao24": "e4a871",
+      "registration": "PS-DIV",
+      "typeCode": "P46T"
+    },
+    {
+      "active": true,
+      "icao24": "e4a873",
+      "registration": "PR-GBQ",
+      "typeCode": "B38M"
+    },
+    {
+      "active": true,
+      "icao24": "e4a8d0",
+      "registration": "PS-CEP",
+      "typeCode": "B505"
+    },
+    {
+      "active": true,
+      "icao24": "e4a900",
+      "registration": "PR-CBS",
+      "typeCode": "DA62"
+    },
+    {
+      "active": true,
+      "icao24": "e4a914",
+      "registration": "PS-VGL",
+      "typeCode": "B505"
+    },
+    {
+      "active": true,
+      "icao24": "e4a92f",
+      "registration": "PS-CDA",
+      "typeCode": "BE9L"
+    },
+    {
+      "active": true,
+      "icao24": "e4a977",
+      "registration": "PU-HIL",
+      "typeCode": "S22T"
+    }
+  ],
+  "aircraftTypes": [],
+  "airlines": [],
+  "baseRevision": "mictronics-479e4d016c596214c8ab853d8fdf3175ce6739d3",
+  "deactivatedIcao24": [],
+  "generatedAt": "2026-11-15T08:55:47Z",
+  "revision": "mictronics-2473c04e7d9e34c33c65e1fdc60395de7bcfbf4c",
+  "schemaVersion": 1,
+  "source": {
+    "id": "mictronics-aircraft-database",
+    "licence": "ODC Attribution License (ODC-By)",
+    "licenceUrl": "https://github.com/Mictronics/aircraft-database/blob/main/LICENSE",
+    "name": "Mictronics Aircraft Database",
+    "url": "https://github.com/Mictronics/aircraft-database"
+  }
+}
